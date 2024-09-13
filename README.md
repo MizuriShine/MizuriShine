@@ -1,5 +1,4 @@
-# 𝕿𝖍𝖊 𝖂𝖎𝖓𝖙𝖊𝖗 𝖆𝖗𝖈. 
-𝔊𝔬𝔬𝔡 𝔩𝔲𝔠𝔨, 𝔴𝔞𝔯𝔯𝔦𝔬𝔯.
+![Header](./github-header-image.png)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MizuriShine&theme=react&hide_border=true&card_width=900&card_height=170&background=45%2C305680%2C4E8ACC&fire=FFAC64)](https://git.io/streak-stats)
 
